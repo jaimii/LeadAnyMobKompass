@@ -1,5 +1,7 @@
-# Lead Any Mob is a Minecraft plugin that allows players to lead any mob. Maintained for Project: Kompass.
-Updated for 1.21.11. Original plugin by [amu0](https://github.com/amu0/LeadAnyMob)
+## Lead Any Mob is a Minecraft plugin that allows players to lead any mob.
+Maintained for Project: Kompass. (Updated for 1.21.11.) 
+
+Original plugin by [amu0](https://github.com/amu0/LeadAnyMob).
 
 ![ScreenShot](./images/screenshot.png)
 
